@@ -1,0 +1,28 @@
+# ---> Phalcon
+/cache/
+/config/development/
+# ---> CakePHP
+# CakePHP 3
+/app/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+# CakePHP 2
+/app/tmp/*
+/app/Config/core.php
+/app/Config/database.php
+/app/vendors/*
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+app/script/check_expired.log
+app/script/QiuCron
+app/views
+public/static
+rev/
+rev_admin/
+app/config/
+public/admin
+.idea
